@@ -1,4 +1,4 @@
-# Engergy Consumption Estimation
+# Energy Consumption Estimation
 
 ## About Dataset
 
