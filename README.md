@@ -4,6 +4,8 @@
 
 This notebook documents how we train different models from a given dataset to estimate building energy consumption. It includes EDA, models training and comparison.
 
+Models include: **Random Forest (also with fine tune)**, **Gradient Boosting Regressor (also with fine tune)**, **XGBoost Regressor** and **Linear Regression**.
+
 ## About Dataset
 
 Description:
