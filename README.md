@@ -1,5 +1,9 @@
 # Energy Consumption Estimation
 
+## Introduction
+
+This notebook documents how we train different models from a given dataset to estimate building energy consumption. It includes EDA, model training and comparison.
+
 ## About Dataset
 
 Description:
